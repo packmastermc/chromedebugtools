@@ -4,8 +4,8 @@ This gives you the oppourtunity to test new features, fix website bugs, and expe
 
 Please report any bugs, glitches, or potentially harmful/malicious scripts at packmastermc@gmail.com.
 
-Scripts that may pose potential damage to your computer's integerity will be flagged with a   # [!] after it's name.
-Please report any harmful scripts without   # [!].
+Scripts that may pose potential damage to your computer's integerity will be flagged with a [!] after it's name.
+Please report any harmful scripts without [!].
 
 This tool is entirely intended for education purposes. I, packmastermc, as the creator of this software collection, will not be responsible for any possible
 damage done with these scripts.
