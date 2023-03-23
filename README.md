@@ -1,4 +1,4 @@
-    # chromedebugtools
+# chromedebugtools
 ChromeDebugTools are a collection of experimental debug tools designed for all recent major releases of Chrome.
 This gives you the oppourtunity to test new features, fix website bugs, and experiment with Chrome's extra features.
 
@@ -13,4 +13,4 @@ damage done with these scripts.
 Please be cautious and read script statements carefully before you run them on your computer. Skipping this precaution
 may lead to unwanted actions being performed.
 
-    # PLEASE TAKE CAUTION
+# PLEASE TAKE CAUTION
