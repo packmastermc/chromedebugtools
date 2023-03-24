@@ -13,4 +13,12 @@ damage done with these scripts.
 Please be cautious and read script statements carefully before you run them on your computer. Skipping this precaution
 may lead to unwanted actions being performed.
 
+Javascript files do not change frequently, however if they do change to correspond to a newer version of Chrome, they will be stated below.
+
+[ NONE ]
+
+Chrome URLs are the most stable of all features. They almost never change. Changes will not be publicly broadcasted. They will just be a new commit to the old file. Please watch out for commits if you would like the latest URLs.
+
+Chrome extensions are the most heavily updated of all. These updates may not be posted into this repository until stability tests have been complete. (Extensions go through a series of stability tests until clear to be published on this repository.) Extensions may not be the latest release. For the latest release, please go to the official download for the extension.
+
 # PLEASE TAKE CAUTION
