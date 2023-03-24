@@ -1,5 +1,5 @@
 chrome://restart
 
 Function: Restart Chrome, on non-ChromeOS. May possibly crash entire OS on ChromeOS (unconfirmed).
-
+ Note: Tabs get reopened in their last state.
 Message packmastermc@gmail.com if you have tested chrome://restart on ChromeOS. Please explain results.
