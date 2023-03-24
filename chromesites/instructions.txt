@@ -1,0 +1,4 @@
+These are official chrome URLs.
+These URLs should work in most recent major releases of Chrome.
+Sites that have "[!]" after it's name have been flagged as dangerous. Please execute these scripts with caution.
+To execute desired results from Chrome URLs, please type the URL (chrome://someurl) into the search bar.
